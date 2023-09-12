@@ -5,5 +5,7 @@ private:
 	char lower(char c);
 public:
 	bool isPalindrome(const char * phrase, int length);
+	
 };
+
 
